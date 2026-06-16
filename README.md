@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan Shyam</h1>
-<h3 align="center">Linix/Cloud/DevOps Engineer from Mumbai, India</h3>
+<h3 align="center">Linux/Cloud/DevOps Engineer from Mumbai, India</h3>
 
 <p align="center">Building cool stuff with code & automating everything I can 🚀</p>
 
