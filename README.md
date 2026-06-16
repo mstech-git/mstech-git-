@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohan Shyam</h1>
-<h3 align="center">Cloud/DevOps Engineer from Mumbai, India</h3>
+<h3 align="center">Linix/Cloud/DevOps Engineer from Mumbai, India</h3>
 
 <p align="center">Building cool stuff with code & automating everything I can 🚀</p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Cloud & DevOps projects ,AI-Automation**
-- 🌱 Learning **Kubernetes, Terraform, AWS ,AiOps**
-- 💬 Ask me about **Solaris , Linux, Docker,ansible, AWS Certified**
+- 🔭 Currently working on **Cloud & DevOps projects,AI-Automation**
+- 🌱 Learning **Kubernetes,Terraform, AWS,AiOps**
+- 💬 Ask me about **Solaris,Linux, Docker,ansible,AWS Certified**
 - 📫 Reach me: **mschauhan111@hotmail.com**
 - ⚡ Fun fact: I love turning coffee into code
 
@@ -26,3 +26,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mstech-git&label=Profile%20views&color=0e75b6&style=flat" alt="mstech-git" />
 </p>
+   
