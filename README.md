@@ -6,9 +6,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Cloud & DevOps projects,AI-Automation**
-- 🌱 Learning **Kubernetes,Terraform, AWS,AiOps**
-- 💬 Ask me about **Solaris,Linux, Docker,ansible,AWS Certified**
+- 🔭 Currently working on **Cloud & DevOps projects, AI-Automation**
+- 🌱 Learning **Kubernetes, Terraform,  AWS, AiOps**
+- 💬 Ask me about **Solaris, Linux, Docker, Ansible, AWS Certified**
 - 📫 Reach me: **mschauhan111@hotmail.com**
 - ⚡ Fun fact: I love turning coffee into code
 
